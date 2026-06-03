@@ -130,11 +130,7 @@ Mental-Health-Screening/
 │
 ├── notebook/
 │   │
-│   └── training.ipynb
-│
-├── api/
-│   │
-│   └── app.py
+│   └── late_fusion2.ipynb
 │
 ├── requirements.txt
 │
